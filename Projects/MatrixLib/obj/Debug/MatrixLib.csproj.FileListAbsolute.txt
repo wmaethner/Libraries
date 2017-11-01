@@ -1,0 +1,10 @@
+c:\users\wmaethne\documents\visual studio 2015\Projects\NueralNetworkImages\MatrixLib\obj\Debug\MatrixLib.csprojResolveAssemblyReference.cache
+c:\users\wmaethne\documents\visual studio 2015\Projects\NueralNetworkImages\MatrixLib\bin\Debug\MatrixLib.dll
+c:\users\wmaethne\documents\visual studio 2015\Projects\NueralNetworkImages\MatrixLib\bin\Debug\MatrixLib.pdb
+c:\users\wmaethne\documents\visual studio 2015\Projects\NueralNetworkImages\MatrixLib\obj\Debug\MatrixLib.dll
+c:\users\wmaethne\documents\visual studio 2015\Projects\NueralNetworkImages\MatrixLib\obj\Debug\MatrixLib.pdb
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\bin\Debug\MatrixLib.dll
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\bin\Debug\MatrixLib.pdb
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\obj\Debug\MatrixLib.csprojResolveAssemblyReference.cache
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\obj\Debug\MatrixLib.dll
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\obj\Debug\MatrixLib.pdb

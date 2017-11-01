@@ -1,0 +1,4 @@
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\bin\Release\MatrixLib.dll
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\bin\Release\MatrixLib.pdb
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\obj\Release\MatrixLib.dll
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\MatrixLib\obj\Release\MatrixLib.pdb

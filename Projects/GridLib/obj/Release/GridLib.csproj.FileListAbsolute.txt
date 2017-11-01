@@ -1,0 +1,5 @@
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\GridLib\bin\Release\GridLib.dll
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\GridLib\bin\Release\GridLib.pdb
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\GridLib\obj\Release\GridLib.csprojResolveAssemblyReference.cache
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\GridLib\obj\Release\GridLib.dll
+C:\Users\wmaethne\Documents\Personal Development\C# Projects\Libraries\GridLib\obj\Release\GridLib.pdb
